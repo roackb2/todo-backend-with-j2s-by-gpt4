@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.12.1",
+    "bookshelf": "^1.2.0",
+    "j2s": "^2.0.13",
+    "knex": "^0.21.21",
+    "koa": "^2.14.1",
+    "koa-bodyparser": "^4.4.0",
+    "pg": "^8.10.0",
+    "sqlite3": "^5.1.6"
+  }
+}
